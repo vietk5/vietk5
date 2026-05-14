@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Về Tôi
 
-Tôi là sinh viên An Toàn Thông Tin đang trong quá trình học tập và xây dựng kỹ năng lập trình.
+Ssinh viên An Toàn Thông Tin đang trong quá trình học tập và xây dựng kỹ năng.
 
 - 🎓 Sinh viên ATTT
 - 📫 Liên hệ: [GitHub Profile](https://github.com/vietk5)
@@ -41,11 +41,10 @@ Tôi là sinh viên An Toàn Thông Tin đang trong quá trình học tập và 
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![VirtualBox, VMWare](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Firewall](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
 </div>
 
