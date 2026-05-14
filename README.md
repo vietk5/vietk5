@@ -12,7 +12,8 @@
 
 ## 👨‍💻 Về Tôi
 
-Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập và xây dựng kỹ năng lập trình.
+Tôi là sinh viên An Toàn Thông Tin đang trong quá trình học tập và xây dựng kỹ năng lập trình.
+
 - 🎓 Sinh viên ATTT
 - 📫 Liên hệ: [GitHub Profile](https://github.com/vietk5)
 
@@ -20,10 +21,12 @@ Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập 
 
 ## 🛠️ Kỹ Năng & Công Nghệ
 
+### 💻 Lập Trình
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,13 +36,26 @@ Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập 
 
 </div>
 
+### 🌐 Mạng & Bảo Mật
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
+</div>
+
 ---
 
 ## 📚 Báo cáo, tài liệu môn học.
 
 > 📖 Tổng hợp các tiểu luận, báo cáo học thuật trong quá trình học tập
 
-🔗 **Repository:** [academic-essays](https://github.com/vietk5/academic-essays)
+🔗 Repository: [academic-essays](https://github.com/vietk5/academic-essays)
 
 ---
 
@@ -47,15 +63,14 @@ Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập 
 
 > 💼 Các dự án được hoàn thiện trong quá trình học tập.
 
-🔗 **Repository:** [course-projects](https://github.com/vietk5/course-projects)
+🔗 Repository: [course-projects](https://github.com/vietk5/course-projects)
 
 ### Dự Án Tiêu Biểu
 
 | Dự Án | Mô Tả | Công Nghệ | Link |
 |:---|:---|:---|:---:|
-| 🛒 **ElectrоMart App** | Ứng dụng Android bán linh kiện máy tính | Java, Android | [Xem](https://github.com/vietk5/APP_BAN_LINH_KIEN_MAY_TINH_LAPTOP_ELECTROMART) |
-| 🛒 **ElectrоMart Web** | Ứng dụng Web bán linh kiện điện tử, máy tính | Java Servlet, SQL | [Xem]() |
-
+| 🛒 ElectrоMart App | Ứng dụng Android bán linh kiện máy tính | Java, Android | [Xem](https://github.com/vietk5/APP_BAN_LINH_KIEN_MAY_TINH_LAPTOP_ELECTROMART) |
+| 🌐 ElectrоMart Web | Ứng dụng Web bán linh kiện điện tử, máy tính | Java Servlet, SQL | [Xem]() |
 
 ---
 
@@ -64,14 +79,13 @@ Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vietk5)
-[![Mail](leducviet060305@gmail.com)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vietk5.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leducviet060305@gmail.com)
 
 </div>
 
 <div align="center">
 
 ---
-⭐ *Tks for comingg* ⭐
+⭐ Tks for coming ⭐
 
 </div>
