@@ -35,23 +35,17 @@ Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập 
 
 ---
 
-## 📚 Tiểu Luận & Báo Cáo Môn Học
+## 📚 Báo cáo, tài liệu môn học.
 
 > 📖 Tổng hợp các tiểu luận, báo cáo học thuật trong quá trình học tập
 
 🔗 **Repository:** [academic-essays](https://github.com/vietk5/academic-essays)
 
-| STT | Tên Tiểu Luận | Môn Học | Năm |
-|:---:|:---|:---|:---:|
-| 1 | *(Cập nhật thêm)* | *(Môn học)* | 2024 |
-
-> 💡 *Kho lưu trữ các bài tiểu luận, báo cáo môn học được cập nhật liên tục*
-
 ---
 
 ## 🚀 Dự Án Môn Học Nổi Bật
 
-> 💼 Các dự án được hoàn thiện kỹ lưỡng, phù hợp để trình bày trong CV thực tập
+> 💼 Các dự án được hoàn thiện trong quá trình học tập.
 
 🔗 **Repository:** [course-projects](https://github.com/vietk5/course-projects)
 
@@ -60,21 +54,8 @@ Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập 
 | Dự Án | Mô Tả | Công Nghệ | Link |
 |:---|:---|:---|:---:|
 | 🛒 **ElectrоMart App** | Ứng dụng Android bán linh kiện máy tính | Java, Android | [Xem](https://github.com/vietk5/APP_BAN_LINH_KIEN_MAY_TINH_LAPTOP_ELECTROMART) |
-| 🌐 **ElectrоMart Backend** | Website thương mại điện tử | Java, HTML/CSS | [Xem](https://github.com/vietk5/backend_electromart) |
-| 🏗️ **DSA Cuối Kì** | Đồ án cấu trúc dữ liệu & giải thuật | C++ | [Xem](https://github.com/vietk5/DSA-CUOI-KI-) |
-| 🔷 **OOP Cuối Kì** | Đồ án lập trình hướng đối tượng | C# | [Xem](https://github.com/vietk5/DO_AN_CK_OOP) |
-| 🌍 **Portfolio Website** | Trang cá nhân giới thiệu bản thân | HTML/CSS/JS | [Xem](https://vietk5.github.io) |
+| 🛒 **ElectrоMart Web** | Ứng dụng Web bán linh kiện điện tử, máy tính | Java Servlet, SQL | [Xem]() |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vietk5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietk5&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -83,6 +64,7 @@ Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vietk5)
+[![Mail](leducviet060305@gmail.com)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vietk5.github.io)
 
 </div>
