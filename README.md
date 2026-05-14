@@ -13,12 +13,8 @@
 
 ## 👨‍💻 Về Tôi
 
-Tôi là sinh viên **Công nghệ thông tin** đang trong quá trình học tập và xây dựng kỹ năng lập trình. Tôi có đam mê với **phát triển web**, **lập trình di động** và luôn cố gắng cải thiện bản thân qua từng dự án.
-
-- 🎓 Sinh viên CNTT đang tìm kiếm cơ hội **thực tập**
-- 🔭 Hiện đang làm việc với **Java, Python, C++, HTML/CSS**
-- 🌱 Đang học thêm về **Spring Boot, React, Android**
-- 💼 Hướng đến vị trí **Backend Developer / Full Stack Developer**
+Tôi là sinh viên **An Toàn Thông Tin** đang trong quá trình học tập và xây dựng kỹ năng lập trình.
+- 🎓 Sinh viên ATTT
 - 📫 Liên hệ: [GitHub Profile](https://github.com/vietk5)
 
 ---
@@ -43,7 +39,7 @@ Tôi là sinh viên **Công nghệ thông tin** đang trong quá trình học t�
 
 ## 📚 Tiểu Luận & Báo Cáo Môn Học
 
-> 📖 Tổng hợp các tiểu luận, báo cáo học thuật trong quá trình học đại học
+> 📖 Tổng hợp các tiểu luận, báo cáo học thuật trong quá trình học tập
 
 🔗 **Repository:** [academic-essays](https://github.com/vietk5/academic-essays)
 
@@ -96,6 +92,6 @@ Tôi là sinh viên **Công nghệ thông tin** đang trong quá trình học t�
 <div align="center">
 
 ---
-⭐ *Cảm ơn đã ghé thăm trang GitHub của tôi!* ⭐
+⭐ *Tks for comingg* ⭐
 
 </div>
