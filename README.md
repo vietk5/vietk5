@@ -69,7 +69,8 @@ Sinh viên An Toàn Thông Tin đang trong quá trình học tập và xây dự
 | Dự Án | Mô Tả | Công Nghệ | Link |
 |:---|:---|:---|:---:|
 | 🛒 ElectrоMart App | Ứng dụng Android bán linh kiện máy tính | Java, Android | [Xem](https://github.com/vietk5/APP_BAN_LINH_KIEN_MAY_TINH_LAPTOP_ELECTROMART) |
-| 🌐 ElectrоMart Web | Ứng dụng Web bán linh kiện điện tử, máy tính | Java Servlet, SQL | [Xem]() |
+| 🌐 ElectrоMart Web | Ứng dụng Web bán linh kiện điện tử, máy tính | Java Servlet, SQL | [Xem](https://github.com/vietk5/DACK_WEB_NHOM1) |
+| Enterprise network system design | Thiết kế hệ thống mạng cho doanh nghiệp | [Xem](https://github.com/vietk5/Thiet-Ke-He-Thong-Mang-Cho-Doanh-Nghiep) |
 
 ---
 
