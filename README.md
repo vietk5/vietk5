@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Về Tôi
 
-Ssinh viên An Toàn Thông Tin đang trong quá trình học tập và xây dựng kỹ năng.
+Sinh viên An Toàn Thông Tin đang trong quá trình học tập và xây dựng kỹ năng.
 
 - 🎓 Sinh viên ATTT
 - 📫 Liên hệ: [GitHub Profile](https://github.com/vietk5)
